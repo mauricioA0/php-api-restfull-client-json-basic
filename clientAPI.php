@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * @author Mauricio Villalba <mvillalba2013.02@gmail.com>
+ */
+ 
     $url = 'http://myapi.com/login';   
 
     $data = array(
